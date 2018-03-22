@@ -19,3 +19,5 @@ si on souhate lancer la simulation de plus de 10 neouds en meme temps, il faut d
  5 Interfaces de connection reseau
 # Instalation
 pour l'instalation on doit booter sur " live-boot VIRL for charges before install"
+
+![instalation](https://user-images.githubusercontent.com/25088510/37747854-8a24f0a6-2d57-11e8-9793-534cc3d277c6.png)
