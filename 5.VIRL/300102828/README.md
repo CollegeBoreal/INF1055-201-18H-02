@@ -47,12 +47,14 @@ iface eth0 inet stati c<br/>
    Pour activer Virl on se connect sur le server a traver le browser dans ce exemple  sur 10.13.237.6 <br/>
    user: uwmadmin <br/> password: password 
    
-     
+   <img width="1671" alt="activ" src="https://user-images.githubusercontent.com/25088510/38007124-ddc55558-3215-11e8-9209-37c4d75a8d72.png">
+ 
       
    on click sur Virl server et selection salt confuguration et status  <br/> 
    
    <img width="1264" alt="virl act" src="https://user-images.githubusercontent.com/25088510/38006777-68bd8902-3214-11e8-87fb-247b7b5dee5f.png">
-
+ 
+ et on cole ou import la cle d'activation dans le champ Minion private RSA  et on redamare le serveur <br/> Le resultat final est le suivant 
 
    
    
