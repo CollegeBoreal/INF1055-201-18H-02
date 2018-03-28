@@ -46,6 +46,8 @@ iface eth0 inet stati c<br/>
    # Activation de Virl
    Pour activer Virl on se connect sur le server a traver le browser dans ce exemple  sur 10.13.237.6 <br/>
    user: uwmadmin <br/> password: password 
+   
+     
       
    on click sur Virl server et selection salt confuguration et status  <br/> 
    
