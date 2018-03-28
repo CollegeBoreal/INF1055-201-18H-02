@@ -21,3 +21,30 @@ si on souhate lancer la simulation de plus de 10 neouds en meme temps, il faut d
 pour l'instalation on doit booter sur " live-boot VIRL for charges before install"
 
 ![instalation](https://user-images.githubusercontent.com/25088510/37747854-8a24f0a6-2d57-11e8-9793-534cc3d277c6.png)
+une fois l'inatalation terminer,on peut se connecter sur virl avec l'identifiant: virl et mot de passe VIRL
+# Configuration reseau
+Elle se confugure comme suit: <br/>
+sudo  vi /etc/network/interfaces
+
+iface eth0 inet static <br/>
+  address a.a.a.a <br/>
+   netmask m.m.m.m <br/>
+   gateway g.g.g.g <br/>
+   dns-nameservers s.s.s.s n.n.n.n<br/>
+   dns-search xxx.com/ca
+   
+   # Example 
+iface eth0 inet stati c<br/>
+   address 10.13.237.6 <br/>
+   netmask 255.255.255.128 <br/>
+   gateway 10.13.237.1 <br/>
+   dns-nameservers 10.10.99.2 10.10.99.3 <br/>
+   dns-search collegeboreal.on.ca <br/>
+   Sauvegarder et quiter
+   en suit redemarer 
+   avec: <br/> sudo reboot now
+   # Activation de Virl
+   Pour activer Virl on se connect sur le server a traver le browser dans ce exemple  sur 10.13.237.6 <br/>
+   user: uwmadmin <br/> password: password
+   
+
