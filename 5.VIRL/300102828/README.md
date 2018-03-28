@@ -45,9 +45,12 @@ iface eth0 inet stati c<br/>
    avec: <br/> sudo reboot now
    # Activation de Virl
    Pour activer Virl on se connect sur le server a traver le browser dans ce exemple  sur 10.13.237.6 <br/>
-   user: uwmadmin <br/> password: password <br/> 
+   user: uwmadmin <br/> password: password 
+      
+   on click sur Virl server et selection salt confuguration et status  <br/> 
    
-   <img width="1671" alt="activ" src="https://user-images.githubusercontent.com/25088510/38006493-43defcd4-3213-11e8-95fa-9c76059a9ff5.png"> <br/>  on click sur Virl server et selection salt confuguration et status
+   <img width="1264" alt="virl act" src="https://user-images.githubusercontent.com/25088510/38006777-68bd8902-3214-11e8-87fb-247b7b5dee5f.png">
+
 
    
    
