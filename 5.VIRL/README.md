@@ -16,3 +16,6 @@ https://www.youtube.com/watch?v=rV5rbj2VZfM
 
 https://www.youtube.com/watch?v=OaAZRRz6xUc
 
+Articles:
+
+https://www.linkedin.com/pulse/using-cisco-virl-ccna-ccnp-ccie-certifications-jack-wang?articleId=7542056014935677334
