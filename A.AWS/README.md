@@ -2,6 +2,12 @@
 
 April 19 2018
 
+Toronto AWS Edge:
+
+151 Front Street
+
+http://www.cologix.com/data-centers/toronto/
+
 
 ![alt tag](./AWS-Compare.png)
 
