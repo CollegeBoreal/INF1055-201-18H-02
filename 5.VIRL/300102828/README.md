@@ -17,11 +17,14 @@ Minimum 60GB de disque dure<br />
 Minimum 4GB de Ram
 si on souhate lancer la simulation de plus de 10 neouds en meme temps, il faut donc 8GB 
  5 Interfaces de connection reseau
+
 # Instalation
 pour l'instalation on doit booter sur " live-boot VIRL for charges before install"
 
-![instalation](https://user-images.githubusercontent.com/25088510/37747854-8a24f0a6-2d57-11e8-9793-534cc3d277c6.png)
-une fois l'inatalation terminer,on peut se connecter sur virl avec l'identifiant: virl et mot de passe VIRL
+![installation](https://user-images.githubusercontent.com/25088510/37747854-8a24f0a6-2d57-11e8-9793-534cc3d277c6.png)
+
+une fois l'installation terminée, on peut se connecter sur virl avec l'identifiant: virl et mot de passe VIRL
+
 # Configuration reseau
 Elle se confugure comme suit: <br/>
 sudo  vi /etc/network/interfaces
